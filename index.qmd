@@ -14,7 +14,7 @@ about:
       href: https://github.com/leoliang5254
     - text: Resume
       icon: file-text
-      href: Resume.pdf
+      href: resume.pdf
 ---
 
 This is a Quarto website.
