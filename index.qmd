@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Page"
+title: "Welcome"
 image: picture.jpg
 about:
   template: jolla
